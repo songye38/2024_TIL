@@ -6,3 +6,6 @@
 - clip , LLaVa 코드 확인
 ### 24.2.23
 - https://www.kaggle.com/competitions/playground-series-s4e2/data 데이터셋 EDA 진행
+
+### 24.2.24
+- EDA 2 진행
